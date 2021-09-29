@@ -1,0 +1,19 @@
+{
+  "name": "timeless",
+  "version": "1.0.0",
+  "description": "Family card app",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ambertrand/Timeless.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ambertrand/Timeless/issues"
+  },
+  "homepage": "https://github.com/ambertrand/Timeless#readme"
+}
